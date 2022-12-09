@@ -2,8 +2,7 @@
 [제주 도로 교통량 예측 경진대회](https://dacon.io/competitions/official/235985/overview/description)
 ## :bookmark_tabs: Mini Project 1 (2022/12/06 ~ 2022/12/09) :date:
 
-![image](https://user-images.githubusercontent.com/84713532/206634403-4ce91b46-8124-45f3-849f-20f572cc450e.png)
-
+![Uploading image.png…]()
 
 
 > :family: team1
