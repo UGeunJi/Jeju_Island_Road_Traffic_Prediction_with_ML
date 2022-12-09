@@ -1,4 +1,4 @@
-#  :oncoming_automobile: Jeju Road Traffic Prediction :sunrise_over_mountains:
+#  :oncoming_automobile: Jeju Road Traffic Prediction with ML :sunrise_over_mountains:
 [제주 도로 교통량 예측 경진대회](https://dacon.io/competitions/official/235985/overview/description)
 
 ![image](https://user-images.githubusercontent.com/84713532/206641256-137974fc-f097-4c6f-843c-d23976861409.png)
