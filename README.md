@@ -9,7 +9,7 @@
 - [고석주](https://github.com/SeokJuGo)
 - [지우근](https://github.com/UGeunJi)
 - [이재영](https://github.com/JAYJAY1005)
-- [양효준](https://github.com/Raphael)
+- [양효준](https://github.com/HyoJoon-Yang)
 
 ---
 
