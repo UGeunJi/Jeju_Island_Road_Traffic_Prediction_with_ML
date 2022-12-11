@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/84713532/206641256-137974fc-f097-4c6f-843c-d23976861409.png)
 
-## :bookmark_tabs: Mini Project 1 (2022/12/06 ~ 2022/12/09) :date:
+## :bookmark_tabs: Mini Project (2022/12/06 ~ 2022/12/09) :date:
 
 > :family: 팀명: 차탄갑서
 - [고석주](https://github.com/SeokJuGo)
@@ -117,3 +117,5 @@
 ---
 
 ## 실행 코드
+
+
