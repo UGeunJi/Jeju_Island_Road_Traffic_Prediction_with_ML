@@ -116,7 +116,7 @@
 
 ---
 
-# 실행 코드
+# :computer: 실행 코드
 
 ```python
 import random
